@@ -1,5 +1,7 @@
 # LED Visualizer
-This quick unmaintened project allows to do a simple visualizer using addressible LEDs. It can be controlled by a host computer over the serial port.
+This quick unmaintened project allows to do a simple visualizer using [cheap LED bars available on Aliexpress](https://www.aliexpress.com/item/1005003166960806.html).
+![Overview of LED bar](led-vizualizer.png)
+The led bar can be modified in order be controlled by a host computer over the serial port using a tiny Arduino.
 ## Requirements :
 ### Arduino :
 The libraries [ArduinoJson](https://arduinojson.org/) and [FastLED](https://github.com/FastLED/FastLED) are required in order to compile the Arduino sketch.
